@@ -1,0 +1,15 @@
+C:\Users\ndsto\Documents\Projects\RandomDndEncounter\bin\Debug\net10.0\RandomDndEncounter.exe
+C:\Users\ndsto\Documents\Projects\RandomDndEncounter\bin\Debug\net10.0\RandomDndEncounter.deps.json
+C:\Users\ndsto\Documents\Projects\RandomDndEncounter\bin\Debug\net10.0\RandomDndEncounter.runtimeconfig.json
+C:\Users\ndsto\Documents\Projects\RandomDndEncounter\bin\Debug\net10.0\RandomDndEncounter.dll
+C:\Users\ndsto\Documents\Projects\RandomDndEncounter\bin\Debug\net10.0\RandomDndEncounter.pdb
+C:\Users\ndsto\Documents\Projects\RandomDndEncounter\obj\Debug\net10.0\RandomDndEncounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ndsto\Documents\Projects\RandomDndEncounter\obj\Debug\net10.0\RandomDndEncounter.AssemblyInfoInputs.cache
+C:\Users\ndsto\Documents\Projects\RandomDndEncounter\obj\Debug\net10.0\RandomDndEncounter.AssemblyInfo.cs
+C:\Users\ndsto\Documents\Projects\RandomDndEncounter\obj\Debug\net10.0\RandomDndEncounter.csproj.CoreCompileInputs.cache
+C:\Users\ndsto\Documents\Projects\RandomDndEncounter\obj\Debug\net10.0\RandomDndEncounter.sourcelink.json
+C:\Users\ndsto\Documents\Projects\RandomDndEncounter\obj\Debug\net10.0\RandomDndEncounter.dll
+C:\Users\ndsto\Documents\Projects\RandomDndEncounter\obj\Debug\net10.0\refint\RandomDndEncounter.dll
+C:\Users\ndsto\Documents\Projects\RandomDndEncounter\obj\Debug\net10.0\RandomDndEncounter.pdb
+C:\Users\ndsto\Documents\Projects\RandomDndEncounter\obj\Debug\net10.0\RandomDndEncounter.genruntimeconfig.cache
+C:\Users\ndsto\Documents\Projects\RandomDndEncounter\obj\Debug\net10.0\ref\RandomDndEncounter.dll
